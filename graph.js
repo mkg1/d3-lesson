@@ -19,3 +19,5 @@ gx.call(x_axis);
 gx.attr("transform", "translate(0,400)");
 
 // Okay, now all of your axes are set up.  Add code to draw points here.
+
+g.append( ). //Fill in the parens and add stuff after the last dot, then make more of these lines.
